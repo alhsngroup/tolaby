@@ -1,0 +1,10 @@
+[
+  {
+    "version": "1.0",
+    "main": "database",
+    "items": [
+      "book1.pdf",
+      "book2.pdf"
+    ]
+  }
+]
